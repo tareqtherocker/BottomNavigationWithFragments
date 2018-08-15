@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:id="@+id/home"
+    <item android:id="@+id/id_menu_home"
         android:title="Home"
         android:icon="@drawable/home"
         android:orderInCategory="1" />
-    <item android:id="@+id/blood_list"
+    <item android:id="@+id/id_menu_blood_list"
         android:title="Blood"
         android:icon="@drawable/blood_list"
         android:orderInCategory="2"/>
-    <item android:id="@+id/messenger"
+    <item android:id="@+id/id_menu_messenger"
         android:title="Messenger"
         android:icon="@drawable/messenger"
         android:orderInCategory="3"/>
-    <item android:id="@+id/friends"
+    <item android:id="@+id/id_menu_friends"
         android:title="Friends"
         android:icon="@drawable/friends"
         android:orderInCategory="4"/>
-    <item android:id="@+id/notifications"
+    <item android:id="@+id/id_menu_notifications"
         android:title="Notifications"
         android:icon="@drawable/notifications"
         android:orderInCategory="5"/>
